@@ -25,3 +25,30 @@ This is study Material for testing
 Now, based on features and techniques of practice, we can distinguish between Testing and Debugging.</p>
 
 <hr />
+
+<h1>HLD and LLD</h1>
+<h2>HLD</h2>
+<ul>
+  <li>High Level Design</li>
+  <li>It is the general system design, which means it signifies the overall system design.</li>
+  <li>HLD is also called a System or macro-level design.</li>
+  <li>Solution Architect prepares the High-Level Design.</li>
+  <li>It is developed first in sequential order, which implies that the HLD is created before the LLD.</li>
+  <li>It is used by management, program, and solution teams.</li>
+  <li>The high-level design is necessary to understand the flow across several system objects.</li>
+  <li>The input measure in high-level design is SRS (Software Requirement Specification).</li>
+  <li>The output measures in the HLD are functional design, database design, and review record.</li>
+</ul>
+
+<h2>LLD</h2>
+<ul>
+  <li>Low Level Design</li>
+  <li>It is like describing high-level design, which means it signifies the procedure of the component-level design.</li>
+  <li>LLD is also called details or micro-level design.</li>
+  <li>Designer and developer prepare the Low-Level Design.</li>
+  <li>It is developed after High-level design.</li>
+  <li>It is used by designers, operation teams, and implementers.</li>
+  <li></li>
+</ul>
+
+<hr />
