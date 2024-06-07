@@ -52,3 +52,35 @@ Now, based on features and techniques of practice, we can distinguish between Te
 </ul>
 
 <hr />
+<h1>Requirement and Specification</h1>
+<h2>Requirement</h2>
+<ul>
+  <li>They plan the software from the end-user, business, and stakeholder perspectives.</li>
+  <li>The requirements define what the software must do.</li>
+  <li>Some of the common terminologies used for requirement document are as follows:
+           SRD: System Requirement Document
+           BRD: Business Requirement Document</li>
+</ul>
+
+<h2>Specification</h2>
+<ul>
+  <li>They prepare the software from the technical team's point of view.</li>
+  <li>The specification defines how the software will be developed.</li>
+  <li>Some of the common terminologies used for specification document are as follows:
+FRS: Functional Requirement Specifications
+SRS: System Requirement Specifications
+CRS: Configurations Requirements Specification
+PRS: Performance Requirements Specifications
+RRS: Reliability Requirements Specifications
+CRS: Compatibility Requirements Specifications
+</li>
+</ul>
+
+<h1>BRS and SRS</h1>
+<p>n software testing, BRS and SRS types of document requirements depend upon business type, their standards, how company processes, and what class of software is to be developed.</p>
+<h2>BRS</h2>
+<p>The BRS document stands for Business Requirement Specification. To create the BRS document, the Business analyst will interrelate with the customers. The BRS document includes the business rules, the project's scope, and in-detail client's requirements.In this type of document, the client describes how their business works or the software they need.</p>
+
+<h2>SRS</h2>
+<p>
+The SRS document stands for Software Requirement Specification.In this document, the Business Analyst will collect the Customer Requirement Specifications (CRS) from the client and translate them into Software Requirement Specification (SRS). The SRS contains how the software should be developed and given by the Business Analyst (BA). In other words, we can say that the SRS document is used to covert the customer information into a detailed document, which can easily understand by the developers and the test engineers.The SRS document is used to determine the early cost of the software product.</p>
