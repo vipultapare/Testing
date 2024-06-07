@@ -76,6 +76,7 @@ CRS: Compatibility Requirements Specifications
 </li>
 </ul>
 
+<hr />
 <h1>BRS and SRS</h1>
 <p>n software testing, BRS and SRS types of document requirements depend upon business type, their standards, how company processes, and what class of software is to be developed.</p>
 <h2>BRS</h2>
