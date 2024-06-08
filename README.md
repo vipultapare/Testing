@@ -174,11 +174,54 @@ When the developers are new to the domain.</p>
 <hr />
 
 <h1>V Model</h1>
-<p>This model came up to overcome the drawback of the waterfall model. And in this model, testing starts from the requirement stage itself.
+<p>This model came up to overcome the drawback of the waterfall model. In this model, testing starts from the requirement stage itself.
 
-In this model, first, all the activities go on the downward direction, and at one point in time, it starts moving in the upward direction to re-use the test document for the testing process and forms a V shape. Hence it is known as the V model.</p>
+In this model, first, all the activities go in a downward direction, and at one point in time, they start moving in the upward direction to re-use the test document for the testing process and form a V shape. Hence it is known as the V model.</p>
 
 <hr />
+
+<h1>Software Testing Life Cycle (STLC)</h1>
+<p>The procedure of software testing is also known as STLC (Software Testing Life Cycle) which includes phases of the testing process. The testing process is executed in a well-planned and systematic manner. All activities are done to improve the quality of the software product.</p>
+
+<h4>Software testing life cycle contains the following steps:</h4>
+<ul>
+  <li>Requirement Analysis</li>
+  <li>Test Plan Creation</li>
+  <li>Environment setup</li>
+  <li>Test case Execution</li>
+  <li>Defect Logging</li>
+  <li>Test Cycle Closure</li>
+</ul>
+
+<h2>Requirement Analysis</h2>
+<p>The first step of the manual testing procedure is requirement analysis. In this phase, tester analyses requirement document of SDLC (Software Development Life Cycle) to examine requirements stated by the client. After examining the requirements, the tester makes a test plan to check whether the software is meeting the requirements or not.</p>
+
+<h2>Test Plan Creation:</h2>
+<p>Test plan creation is the crucial phase of STLC where all the testing strategies are defined. Tester determines the estimated effort and cost of the entire project. This phase takes place after the successful completion of the Requirement Analysis Phase. Testing strategy and effort estimation documents provided by this phase. Test case execution can be started after the successful completion of Test Plan Creation.</p>
+
+<h2>Environment setup</h2>
+<p>Setup of the test environment is an independent activity and can be started along with Test Case Development. This is an essential part of the manual testing procedure as without environment testing is not possible. Environment setup requires a group of essential software and hardware to create a test environment. The testing team is not involved in setting up the testing environment, its senior developers who create it.</p>
+
+<h2>Test case Execution</h2>
+<p>Test case Execution takes place after the successful completion of test planning. In this phase, the testing team starts case development and execution activity. The testing team writes down the detailed test cases, also prepares the test data if required. The prepared test cases are reviewed by peer members of the team or Quality Assurance leader.
+
+RTM (Requirement Traceability Matrix) is also prepared in this phase. Requirement Traceability Matrix is industry level format, used for tracking requirements. Each test case is mapped with the requirement specification. Backward & forward traceability can be done via RTM</p>
+
+<h2>Defect Logging</h2>
+<p>his phase determines the characteristics and drawbacks of the software. Test cases and bug reports are analyzed in depth to detect the type of defect and its severity.
+
+Defect logging analysis mainly works to find out defect distribution depending upon severity and types.If any defect is detected, then the software is returned to the development team to fix the defect, then the software is re-tested on all aspects of the testing.</p>
+
+<h2>Test Cycle Closure</h2>
+<p>The test cycle closure report includes all the documentation related to software design, development, testing results, and defect reports.
+
+This phase evaluates the strategy of development, testing procedure, possible defects in order to use these practices in the future if there is a software with the same specification.</p>
+
+<hr />
+
+
+
+
 
 
 
