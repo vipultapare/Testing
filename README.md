@@ -373,6 +373,11 @@ Automation testing is the best way to enhance the efficiency, productivity, and 
 
 It is used to re-run the test scenarios, which were executed manually, quickly, and repeatedly.</p>
 
+<hr />
+
+<h1>User Acceptance Testing</h1>
+<p>User acceptance testing (UAT) is a type of testing, which is done by the customer before accepting the final product. Generally, UAT is done by the customer (domain expert) for their satisfaction, and check whether the application is working according to given business scenarios, real-time scenarios.In this, we concentrate only on those features and scenarios which are regularly used by the customer or mostly user scenarios for the business or those scenarios which are used daily by the end-user or the customer.However, the software has passed through three testing levels (Unit Testing, Integration Testing, System Testing) But still there are some minor errors which can be identified when the system is used by the end user in the actual scenario.</p>
+
 
 
 
