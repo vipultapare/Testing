@@ -224,6 +224,163 @@ This phase evaluates the strategy of development, testing procedure, possible de
 <img src="https://static.javatpoint.com/tutorial/software-testing/images/types-of-software-testing.png" alt="Girl in a jacket" width="500" height="600">
 
 
+<h2>Manual Testing</h2>
+<p>Testing any software or an application according to the client's needs without using any automation tool is known as manual testing.
+
+In other words, we can say that it is a procedure of verification and validation. Manual testing is used to verify the behavior of an application or software in contradiction of requirements specification.</p>
+
+<ul>
+  <li>White Box Testing</li>
+  <li>Black Box Testing</li>
+  <li>Grey Box Testing</li>
+</ul>
+
+<h3>White Box Testing</h3>
+<p>In white-box testing, the developer will inspect every line of code before handing it over to the testing team or the concerned test engineers.In white-box testing, the developer will inspect every line of code before handing it over to the testing team or the concerned test engineers.White box testing is also known as open box testing, glass box testing, structural testing, clear box testing, and transparent box testing.</p>
+
+<h3>Black Box Testing</h3>
+<p>Another type of manual testing is black-box testing. In this testing, the test engineer will analyze the software against requirements, identify the defects or bug, and sends it back to the development team.Then, the developers will fix those defects, do one round of White box testing, and send it to the testing team.Here, fixing the bugs means the defect is resolved, and the particular feature is working according to the given requirement.In other words, we can say that black box testing is a process of checking the functionality of an application as per the customer requirement. The source code is not visible in this testing; that's why it is known as black-box testing.</p>
+
+<ul>
+  <li>Functional Testing</li>
+  <li>Non-function Testing</li>
+</ul>
+
+<h4>Functional Testing</h4>
+<p>The test engineer will check all the components systematically against requirement specifications is known as functional testing. Functional testing is also known as Component testing.
+
+In functional testing, all the components are tested by giving the value, defining the output, and validating the actual output with the expected value.</p>
+
+<ul>
+  <li>Unit Testing</li>
+  <li>Integration Testing</li>
+  <li>System Testing</li>
+</ul>
+
+<h4>Unit Testing</h4>
+<p>Unit testing is the first level of functional testing in order to test any software. In this, the test engineer will test the module of an application independently or test all the module functionality is called unit testing.The primary objective of executing the unit testing is to confirm the unit components with their performance. Here, a unit is defined as a single testable function of a software or an application. And it is verified throughout the specified application development phase.</p>
+
+<h4>Integration Testing</h4>
+<p>Once we are successfully implementing the unit testing, we will go integration testing. It is the second level of functional testing, where we test the data flow between dependent modules or interface between two features is called integration testing.The purpose of executing the integration testing is to test the statement's accuracy between each module.</p>
+
+<p>Integration testing is also further divided into the following parts:</p>
+<ul>
+  <li>Incremental Testing</li>
+  <li>Non-Incremental Testing</li>
+</ul>
+
+<h4>Incremental Testing</h4>
+<p>Whenever there is a clear relationship between modules, we go for incremental integration testing. Suppose, we take two modules and analysis the data flow between them if they are working fine or not.
+
+If these modules are working fine, then we can add one more module and test again. And we can continue with the same process to get better results.</p>
+
+<h4>Non incremental Testing</h4>
+<p>Whenever the data flow is complex and very difficult to classify a parent and a child, we will go for the non-incremental integration approach. The non-incremental method is also known as the Big Bang method.</p>
+
+
+<h4>System Testing</h4>
+<p>Whenever we are done with the unit and integration testing, we can proceed with the system testing.
+
+In system testing, the test environment is parallel to the production environment. It is also known as end-to-end testing.
+
+In this type of testing, we will undergo each attribute of the software and test if the end feature works according to the business requirement. And analysis the software product as a complete system.</p>
+
+
+<h4>Non-Functional Testing</h4>
+<p>The next part of black-box testing is non-functional testing. It provides detailed information on software product performance and used technologies.
+
+Non-functional testing will help us minimize the risk of production and related costs of the software.
+
+Non-functional testing is a combination of performance, load, stress, usability and, compatibility testing.</p>
+
+<p>Types of Non Functional Testing</p>
+<ul>
+  <li>Performance Testing</li>
+  <li>Usability Testing</li>
+  <li>Compatibility Testing</li>
+</ul>
+
+<h4>Performance Testing</h4>
+<p>In performance testing, the test engineer will test the working of an application by applying some load.
+
+In this type of non-functional testing, the test engineer will only focus on several aspects, such as Response time, Load, scalability, and Stability of the software or an application.</p>
+
+<p>Classification of Performance Testing</p>
+
+<ul>
+  <li>Load Testing</li>
+  <li>Stress Testing</li>
+  <li>Scalability Testing</li>
+  <li>Stability Testing</li>
+</ul>
+
+<h4>Load Testing</h4>
+<p>While executing the performance testing, we will apply some load on the particular application to check the application's performance, known as load testing. Here, the load could be less than or equal to the desired load.
+
+It will help us to detect the highest operating volume of the software and bottlenecks.
+Here, load means that when N-number of users using the application simultaneously or sending the request to the server at a time.
+
+Load testing will help to detect the maximum operating capacity of an application and any blockages or bottlenecks.The load testing is mainly used to test the Client/Server's performance and applications that are web-based.</p>
+
+
+
+<h4>Stress Testing</h4>
+<p>It is used to analyze the user-friendliness and robustness of the software beyond the common functional limits. Primarily, stress testing is used for critical software, but it can also be used for all types of software applications.</p>
+
+<h4>Scalability Testing</h4>
+<p>It is used to check an application's performance by increasing or decreasing the load in particular scales known as scalability testing. It is executed at a hardware, software, or database level.</p>
+
+<h4>Stability Testing</h4>
+<p>Stability testing is a procedure where we evaluate the application's performance by applying the load for a precise time.
+
+It mainly checks the constancy problems of the application and the efficiency of a developed product. In this type of testing, we can rapidly find the system's defect even in a stressful situation.</p>
+
+
+
+<h4>Usability Testing</h4>
+<p>Another type of non-functional testing is usability testing. In usability testing, we will analyze the user-friendliness of an application and detect the bugs in the software's end-user interface.
+
+Here, the term user-friendliness defines the following aspects of an application:
+
+The application should be easy to understand, which means that all the features must be visible to end-users.
+The application's look and feel should be good that means the application should be pleasant looking and make a feel to the end-user to use it.</p>
+
+<p>In Usability Testing, the user-friendliness can be described with the help of the following characteristics:</p>
+
+ - Easy to understand
+ - Easy to access
+ - Look and feel
+ - Faster to Access
+ - Effective Navigation
+ - Good Error Handling
+
+<h4>Compatibility Testing</h4>
+<p>In compatibility testing, we will check the functionality of an application in specific hardware and software environments. Once the application is functionally stable then only, we go for compatibility testing.
+
+Here, software means we can test the application on the different operating systems and other browsers, and hardware means we can test the application on different sizes.</p>
+
+
+
+<h3>Grey Box Testing</h3>
+<p>Another part of manual testing is Grey box testing. It is a collaboration of black box and white box testing.
+
+Since, the grey box testing includes access to internal coding for designing test cases. Grey box testing is performed by a person who knows coding as well as testing.In other words, we can say that if a single-person team done both white box and black-box testing, it is considered grey box testing.</p>
+
+<h2>Automation Testing</h2>
+<p>The most significant part of Software testing is Automation testing. It uses specific tools to automate manual design test cases without any human interference.
+
+Automation testing is the best way to enhance the efficiency, productivity, and coverage of Software testing.
+
+It is used to re-run the test scenarios, which were executed manually, quickly, and repeatedly.</p>
+
+
+
+
+
+
+
+  
+
 
 
 
