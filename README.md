@@ -144,6 +144,44 @@ The SRS document stands for Software Requirement Specification.In this document,
   <li>Testing and risk analysis</li>
 </ul>
 
+<hr />
+
+<h1>Prototype Model</h1>
+<p>The most significant disadvantage of previous models (waterfall and spiral) is that there were lots of customer rejection that happens after the application was developed, and there was no involvement of the customers in between the project.
+
+Hence, they started the new approach, which is known as the prototype model. In this, we will collect the requirements from the customer and prepare a prototype (sample), and get it reviewed and approved by the customer. And only when they satisfied, we will start working on the original projects so that there won't be any customer rejection.
+
+The prototype is just the sample or a dummy of the required software product. If all the mentioned modules are present, then only the developer and tester will perform prototype testing.</p>
+
+<h2>When we use the Prototype model</h2>
+<p>Whenever the customer is new to the software industry or when he doesn't know how to give the requirements to the company.
+When the developers are new to the domain.</p>
+
+<h2>Prototype model process</h2>
+<ul>
+  <li>Requirement analysis</li>
+  <li>feasibility study</li>
+  <li>Create a prototype</li>
+  <li>Prototype testing</li>
+  <li>Customer review and approval</li>
+  <li>Design</li>
+  <li>Coding</li>
+  <li>Testing</li>
+  <li>Installation and maintenance</li>
+</ul>
+
+
+<hr />
+
+<h1>V Model</h1>
+<p>This model came up to overcome the drawback of the waterfall model. And in this model, testing starts from the requirement stage itself.
+
+In this model, first, all the activities go on the downward direction, and at one point in time, it starts moving in the upward direction to re-use the test document for the testing process and forms a V shape. Hence it is known as the V model.</p>
+
+<hr />
+
+
+
 
 
 
