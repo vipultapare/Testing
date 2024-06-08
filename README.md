@@ -219,6 +219,10 @@ This phase evaluates the strategy of development, testing procedure, possible de
 
 <hr />
 
+<h1>Types of Software Testing</h1>
+
+<img src:"https://static.javatpoint.com/tutorial/software-testing/images/types-of-software-testing.png" />
+
 
 
 
