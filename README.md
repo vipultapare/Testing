@@ -131,6 +131,19 @@ The SRS document stands for Software Requirement Specification.In this document,
   <li>Maintenance</li>
 </ul>
 
+<hr />
+
+<h1>Spiral Model</h1>
+<p>The biggest problem we face in the waterfall model is that taking a long duration to complete the product, and the software became outdated. To solve this problem, we have a new approach, which is known as the Spiral model. The spiral model is also known as the cyclic model.In this model, we create the application module by module and handed over to the customer so that they can start using the application at a very early stage. And we prepare this model only when the module is dependent on each other. In this model, we develop the application in the stages because sometimes the client gives the requirements in between the process.</p>
+
+<ul>
+  <li>Requirement analysis
+</li>
+  <li>Design</li>
+  <li>Coding</li>
+  <li>Testing and risk analysis</li>
+</ul>
+
 
 
 
