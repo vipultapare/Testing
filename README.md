@@ -221,7 +221,7 @@ This phase evaluates the strategy of development, testing procedure, possible de
 
 <h1>Types of Software Testing</h1>
 
-<img src:"https://static.javatpoint.com/tutorial/software-testing/images/types-of-software-testing.png" />
+<img src="https://static.javatpoint.com/tutorial/software-testing/images/types-of-software-testing.png" alt="Girl in a jacket" width="500" height="600">
 
 
 
