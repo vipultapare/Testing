@@ -117,6 +117,20 @@ The SRS document stands for Software Requirement Specification.In this document,
 <h2>Maintenance</h2>
 <p>The maintenance phase is the last and long-lasting phase of SDLC because it is the process which continues until the software's life cycle comes to an end. When a customer starts using software, then actual problems start to occur, and at that time there's a need to solve these problems. This phase also includes making changes in hardware and software to maintain its operational effectiveness like to improve its performance, enhance security features and according to customer's requirements with upcoming time. This process to take care of product time to time is called maintenance.</p>
 
+<hr />
+
+<h1>WaterFall Model</h1>
+<p>It is the first approach and the basic model used in software development. It is a simple model that is easy to use as well as understand. The execution happens in the sequence order, which means that the outcome of the one-stage is equal to the input of another stage. That's why it is also known as the Linear-sequential life cycle model.To avoid the overlapping issues of the multiple phases, every stage should be completed before moving to the next stage. Each stage of the waterfall model involves the deliverable of the previous stage, like requirements, are transferred to the design phase, design moved to development, and so on. When we have the Life critical (hospital application) and Machine critical (Military project), we will widely use the waterfall model.</p>
+<ul>
+  <li>Requirement collection</li>
+<li>Feasibility study</li>
+<li>Design</li>
+  <li>Coding</li>
+  <li>Testing</li>
+  <li>Installation</li>
+  <li>Maintenance</li>
+</ul>
+
 
 
 
