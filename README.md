@@ -440,6 +440,33 @@ Medium: In this, the problem should be fixed before the release of the current v
 Low: The flow should be fixed if there is time, but it can be deferred with the next release.</p>
 
 
+<hr/>
+
+<h1>Other Types Of Testing</h1>
+
+<h2>Regression Testing</h2>
+<p>Regression testing is a black box testing techniques. It is used to authenticate a code change in the software does not impact the existing functionality of the product. Regression testing is making sure that the product works fine with new functionality, bug fixes, or any change in the existing feature.
+
+Regression testing is a type of software testing. Test cases are re-executed to check the previous functionality of the application is working fine, and the new changes have not produced any bugs.
+
+Regression testing can be performed on a new build when there is a significant change in the original functionality. It ensures that the code still works even when the changes are occurring. Regression means Re-test those parts of the application, which are unchanged.
+
+Regression tests are also known as the Verification Method</p>
+
+<h2>Smoke Testing</h2>
+<p>Smoke Testing comes into the picture at the time of receiving build software from the development team. The purpose of smoke testing is to determine whether the build software is testable or not. It is done at the time of "building software." This process is also known as "Day 0".
+
+It is a time-saving process. It reduces testing time because testing is done only when the key features of the application are not working or if the key bugs are not fixed. The focus of Smoke Testing is on the workflow of the core and primary functions of the application.
+
+Testing the basic & critical feature of an application before doing one round of deep, rigorous testing (before checking all possible positive and negative values) is known as smoke testing.
+
+In the smoke testing, we only focus on the positive flow of the application and enter only valid data, not the invalid data. In smoke testing, we verify every build is testable or not; hence it is also known as Build Verification Testing.</p>
+<h3>Example</h3>
+<p>The developer develops the application and handed over to the testing team, and the testing team will start the functional testing
+
+Suppose we assume that four days we are given to the functional testing. On the first day, we check one module, and on the second day, we will go for another module. And on the fourth day, we find a critical bug when it is given it to the developer; he/she says it will take another two days to fix it. Then we have to postpone the release date for these extra two days.
+To overcome this problem, we perform smoke testing, let us see how it works, in the above situation, instead of the testing module by module thoroughly and come up with critical bug at the end, it is better to do smoke testing before we go for functional, integration and system testing that is, in each module we have to test for essential or critical features, and then proceed for further testing </p>
+
 
 
   
