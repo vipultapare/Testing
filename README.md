@@ -382,7 +382,23 @@ It is used to re-run the test scenarios, which were executed manually, quickly, 
 <hr />
 <h1>Bug Life Cycle</h1>
 <img src="https://static.javatpoint.com/tutorial/software-testing/images/bug-life-cycle.png">
+<p>Here, we will talk about the complete life cycle of a bug from the stage it was found, fixed, re-test, and close.
 
+We have some different status of bugs like new/open, assigned, fix, re-open, and closed.As soon as the test engineer finds the bug, status is given as New, which indicates that a bug is just found.This new bug needs to be reported to the concerned Developer by changing the status as Assigned so that the responsible person should take care of the bug.
+
+Then the Developer first go through the bug, which means that the Developers read all the navigation steps to decide whether it is a valid bug or not.
+
+Based on this, if the bug is valid, the Developer starts reproducing the bug on the application, once the bug is successfully reproduced, the Developer will analyze the code and does the necessary changes, and change the status as Fixed.
+
+Once the code changes are done, and the bug is fixed, the test engineer re-test the bug, which means that the test engineer performs the same action once again, which is mentioned in the bug report, and changes the status accordingly:
+
+Close, if the bug fixes properly, and functionally working according to the requirement.
+
+OR
+
+Re-open, if the bug still exists or not working properly as per the requirement, then the bug sends it back to the Developer once again.
+
+This process is going on continuously until all the bugs are fixed and closed.</p>
 
 
 
