@@ -442,6 +442,19 @@ Low: The flow should be fixed if there is time, but it can be deferred with the 
 
 <hr/>
 
+<h1>Build and Release</h1>
+<h2>Build</h2>
+<p>In manual testing, build is software that contains some set of features/bugs and it is installed on a test server that needs to be tested for the product's stability.
+
+In other words, we can say that the build is used to change the code into the application format. Every new build will be the improved version of the new build.</p>
+
+<h2>Release</h2>
+<p>In software testing, it is very common terminology used on an everyday basis. The Release is a final product or a project, which is delivered to the customer.
+
+It involves the complete activities from the Requirement, Designing, Development, and Testing phases until it is handed over to the customer.</p>
+
+<hr />
+
 <h1>Other Types Of Testing</h1>
 
 <h2>Regression Testing</h2>
@@ -454,7 +467,7 @@ Regression testing can be performed on a new build when there is a significant c
 Regression tests are also known as the Verification Method</p>
 
 <h2>Smoke Testing</h2>
-<p>Smoke Testing comes into the picture at the time of receiving build software from the development team. The purpose of smoke testing is to determine whether the build software is testable or not. It is done at the time of "building software." This process is also known as "Day 0".
+<p>Smoke Testing comes into the picture at the time of receiving build software from the development team. The purpose of smoke testing is to determine whether the build software is testable or not. It is done at the time of "building software." This process is also known as "Day 0".It is performed on initial Build.
 
 It is a time-saving process. It reduces testing time because testing is done only when the key features of the application are not working or if the key bugs are not fixed. The focus of Smoke Testing is on the workflow of the core and primary functions of the application.
 
@@ -466,6 +479,12 @@ In the smoke testing, we only focus on the positive flow of the application and 
 
 Suppose we assume that four days we are given to the functional testing. On the first day, we check one module, and on the second day, we will go for another module. And on the fourth day, we find a critical bug when it is given it to the developer; he/she says it will take another two days to fix it. Then we have to postpone the release date for these extra two days.
 To overcome this problem, we perform smoke testing, let us see how it works, in the above situation, instead of the testing module by module thoroughly and come up with critical bug at the end, it is better to do smoke testing before we go for functional, integration and system testing that is, in each module we have to test for essential or critical features, and then proceed for further testing </p>
+
+
+<h2>Sanity Testing</h2>
+<p>It is performed to check whether the bugs have been fixed after the build. Generally, Sanity testing is performed on stable builds. It is also known as a variant of regression testing.
+
+The initial aim of performing sanity testing is to determine that the planned features work roughly as expected. If the sanity test fails, the build is rejected to save the costs and time complex in more severe testing. It is performed on Stable Build.</p>
 
 
 
