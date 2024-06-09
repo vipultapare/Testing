@@ -487,6 +487,35 @@ To overcome this problem, we perform smoke testing, let us see how it works, in 
 The initial aim of performing sanity testing is to determine that the planned features work roughly as expected. If the sanity test fails, the build is rejected to save the costs and time complex in more severe testing. It is performed on Stable Build.</p>
 
 
+<h2>Recovery Testing</h2>
+<p>Recovery testing is testing where the test engineer will test the application to check how well the Software or the application recovers from disasters or crashes.
+
+It is one of the most important types of non-functional testing categorized under performance testing</p>
+
+<h3>Example</h3>
+<p>Suppose we are using the browser, let say Google Chrome, and the power goes off. When we switch on the system again and re-open Google Chrome, we get a message window that displays whether we want to start a new session or restore the previous session.
+
+So, in this situation, while we are restarting the system while a browser has a definite number of sessions and check if the browser can recover all of them or not</p>
+
+<hr />
+
+<h2>Alpha Testing</h1>
+<p>Alpha testing is a type of acceptance testing, which is performed to identify all possible bugs/issues before releasing the product to the end-user. Alpha test is a preliminary software field test carried out by a team of users to find out the bugs that were not found previously by other tests. Alpha testing is to simulate a real user environment by carrying out tasks and operations that actual user might perform. Alpha testing implies a meeting with a software vendor and client to ensure that the developers appropriately meet the client's requirements in terms of the performance, functionality, and durability of the software.</p>
+
+<h2>Beta Testing</h2>
+<p>Beta Testing is a type of acceptance testing; it is the final test before shipping a product to the customers. Beta testing of a product is implemented by "real users "of the software application in a "real environment." In this phase of testing, the software is released to a limited number of end-users of the product to obtain feedback on the product quality. It allows the real customers an opportunity to provide inputs into the design, functionality, and usability of the product. These inputs are essential for the success of the product. Beta testing reduces product failure risks and increases the quality of the product through customer validation. Direct feedback from customers is a significant advantage of beta testing. This testing helps to tests the software in a real environment. The experiences of the previous users are forwarded back to the developers who make final changes before releasing the software product.</p>
+
+<h3>Close Beta Testing</h3>
+<p>Closed beta version, also known as a private beta, it is released to a group of selected and invited people. Those people will test the software and evaluate their features and specifications. This beta version represents the software which is capable of delivering value, but it is not ready to be used by everyone. Because it shows the issues like lack of documentation or missing vital features.</p>
+
+<h3>Open Beta Testing</h3>
+<p>Open beta is also known as a public beta. The open beta opened to the public. Any user as a tester can assess the beta version to provide the relevant feedback and reviews. Open beta version improves the quality of the final release. This version helps to find the various undetected errors and issues.</p>
+
+
+
+
+
+
 
   
 
