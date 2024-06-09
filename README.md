@@ -400,7 +400,44 @@ Re-open, if the bug still exists or not working properly as per the requirement,
 
 This process is going on continuously until all the bugs are fixed and closed.</p>
 
+<hr />
 
+<h1>Severity and Priority</h1>
+
+<h2>Severity</h2>
+<p>The impact of the bug on the application is known as severity.
+It can be a blocker, critical, major, and minor for the bug.</p>
+
+<h3>Blocker</h3>
+
+<p>if the severity of a bug is a blocker, which means we cannot proceed to the next module, and unnecessarily test engineer sits ideal.
+
+There are two types of blocker bug, which are as follows:
+</p>
+<p>A major feature is not working: Login to HDFC, amount transfer is not working
+
+The major flow is not working: Login and signup itself not working in HDFC application.</p>
+
+<h3>Critical</h3>
+<p>if it is critical, that means the main functionality is not working, and the test engineer cannot continue testing.</p>
+
+<h3>Major</h3>
+<p>if it is major, which means that the supporting components and modules are not working fine, but test engineer can continue the testing.</p>
+
+<h3>Minor</h3>
+<p>
+  if it is major, which means that the supporting components and modules are not working fine, but test engineer can continue the testing.
+</p>
+
+<h2>Priority</h2>
+<p>Priority is important for fixing the bug or which bug to be fixed first or how soon the bug should be fixed.</p>
+<p>It can be urgent, high, medium, and low.
+
+High: it is a major impact on the customer application, and it has to be fixed first.
+
+Medium: In this, the problem should be fixed before the release of the current version in development.
+
+Low: The flow should be fixed if there is time, but it can be deferred with the next release.</p>
 
 
 
