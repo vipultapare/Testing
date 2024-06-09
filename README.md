@@ -379,6 +379,11 @@ It is used to re-run the test scenarios, which were executed manually, quickly, 
 <p>User acceptance testing (UAT) is a type of testing, which is done by the customer before accepting the final product. Generally, UAT is done by the customer (domain expert) for their satisfaction, and check whether the application is working according to given business scenarios, real-time scenarios.In this, we concentrate only on those features and scenarios which are regularly used by the customer or mostly user scenarios for the business or those scenarios which are used daily by the end-user or the customer.However, the software has passed through three testing levels (Unit Testing, Integration Testing, System Testing) But still there are some minor errors which can be identified when the system is used by the end user in the actual scenario.</p>
 
 
+<hr />
+<h1>Bug Life Cycle</h1>
+<img src:"https://static.javatpoint.com/tutorial/software-testing/images/bug-life-cycle.png">
+
+
 
 
 
