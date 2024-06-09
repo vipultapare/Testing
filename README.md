@@ -381,7 +381,7 @@ It is used to re-run the test scenarios, which were executed manually, quickly, 
 
 <hr />
 <h1>Bug Life Cycle</h1>
-<img src:"https://static.javatpoint.com/tutorial/software-testing/images/bug-life-cycle.png">
+<img src="https://static.javatpoint.com/tutorial/software-testing/images/bug-life-cycle.png">
 
 
 
